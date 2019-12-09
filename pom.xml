@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>af.asr</groupId>
-	<artifactId>upay-lang</artifactId>
+	<artifactId>phoenix-lang</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>upay-lang</name>
-	<description>Demo project for Spring Boot</description>
+	<name>phoenix-lang</name>
+	<description>Library for shared functionalities</description>
 
 	<properties>
 		<java.version>1.8</java.version>
