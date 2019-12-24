@@ -20,5 +20,12 @@ These are the mostly used functions in the system which include:
 java -cp build/libs/lang-0.1.0-BUILD-SNAPSHOT.jar af.asr.security.RsaKeyPairFactory SPRING > application-dev.properties
 
 java -cp build/libs/lang-0.1.0-BUILD-SNAPSHOT.jar  af.asr.security.RsaKeyPairFactory UNIX > env.vars.txt
+<br/>
+
 source env.vars.txt
+
+<br/>
 echo $PUBLIC_KEY_TIMESTAMP
+
+
+
